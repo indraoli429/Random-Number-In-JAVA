@@ -1,1 +1,1 @@
-# Java_color_project
+# Random-Number-In-JAVA
